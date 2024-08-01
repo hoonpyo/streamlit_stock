@@ -9,4 +9,5 @@ sqlalchemy
 openai
 python-dotenv
 deep_translator
-dotenv
+python-dotenv
+requests
